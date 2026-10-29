@@ -1,0 +1,6 @@
+// Personal signing settings go in Config/Local.xcconfig (not committed):
+//   DEVELOPMENT_TEAM = ABCDE12345
+//   BUNDLE_ID_PREFIX = com.yourname
+DEVELOPMENT_TEAM =
+BUNDLE_ID_PREFIX = com.marcochiozzi
+#include? "Local.xcconfig"
